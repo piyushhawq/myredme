@@ -2,11 +2,69 @@ _<h1> Hello Fellow < Coders/ >! I'am Piyush<img src = "https://raw.githubusercon
 <p align='center'>
 <img src="https://github.com/piyushhawq/Images/blob/main/coderanimation.gif">
 </p>
-<p align='center'>
-<img src="https://media.giphy.com/media/QvpqTCiEcwtvx6wwJK/giphy.gif" width="270" height="270" frameBorder="0" class="giphy-embed" allowFullScreen></img></p>
 <hr>
 <br>
+<p align='auto'>
+- 🔭 𝙸’𝚖 𝚌𝚞𝚛𝚛𝚎𝚗𝚝𝚕𝚢 𝚠𝚘𝚛𝚔𝚒𝚗𝚐 𝚘𝚗 ** 𝚆𝚎𝚋 𝙳𝚎𝚟𝚎𝚕𝚘𝚙𝚖𝚎𝚗𝚝** 
+ <br>
+- 🌱 𝙸’𝚖 𝚌𝚞𝚛𝚛𝚎𝚗𝚝𝚕𝚢 𝚕𝚎𝚊𝚛𝚗𝚒𝚗𝚐 ** 𝙲𝚘𝚖𝚙𝚎𝚝𝚒𝚝𝚒𝚟𝚎 𝙿𝚛𝚘𝚐𝚛𝚊𝚖𝚖𝚒𝚗𝚐**
+ <br>
+- 👯 𝙸’𝚖 𝚕𝚘𝚘𝚔𝚒𝚗𝚐 𝚝𝚘 𝚌𝚘𝚕𝚕𝚊𝚋𝚘𝚛𝚊𝚝𝚎 𝚘𝚗 ** 𝚆𝚎𝚋 𝙳𝚎𝚟𝚎𝚕𝚘𝚙𝚖𝚎𝚗𝚝**
+ <br>
+- 🤔 𝙸’𝚖 𝚕𝚘𝚘𝚔𝚒𝚗𝚐 𝚏𝚘𝚛 Job in **SDE or Full Stack Developer **
+ <br>
+- 💬 𝙰𝚜𝚔 𝙼𝚎 𝙰𝚋𝚘𝚞𝚝 𝙰𝚗𝚢𝚝𝚑𝚒𝚗𝚐 ! 𝙸 𝚊𝚖 𝚑𝚊𝚙𝚙𝚢 𝚝𝚘 𝚑𝚎𝚕𝚙.
+ <br>
+- 😄 𝙿𝚛𝚘𝚗𝚘𝚞𝚗𝚜 : **𝙷𝚎/𝙷𝚒𝚖/𝙷𝚒𝚜**
+ <br>
+- ⚡ 𝙵𝚞𝚗 𝚏𝚊𝚌𝚝 : **𝙱𝚎𝚜𝚝 𝙿𝚊𝚛𝚝 𝙾𝚏 𝚃𝚑𝚎 𝙹𝚘𝚞𝚛𝚗𝚎𝚢 𝙸𝚜 : *𝙸𝚝 𝙴𝚗𝚍𝚜***
+ <br> <br>
+
+ ## Connect With ME 🔗 :
+<br><br>
+## Social Media 🔗 :
+<br>
 <p align='center'>
+<a href="mailto:piyush.cv1999@gmail.com" target="_blank">
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>&nbsp;&nbsp;
+ 
+<a href="https://www.linkedin.com/in/piyush-chaturvedi-3a86151b7/" target="_blank">
+<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"></a>&nbsp;&nbsp;
+ 
+<a href="https://www.reddit.com/user/FSocietyhawq" target="_blank">
+<img src="https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white"></a>&nbsp;&nbsp;
+ 
+ <a href="https://www.facebook.com/piyush.chobey.5" target="_blank">
+<img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white"></a>&nbsp;&nbsp;
+ 
+  <a href="https://twitter.com/FSocietyhawq" target="_blank">
+<img src="https://img.shields.io/badge/FSocietyhawq-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white"></a>&nbsp;&nbsp;
+ 
+  <a href="https://www.instagram.com/piyush.chaturvedi_3/" target="_blank">
+<img src="https://img.shields.io/badge/piyush.chaturvedi_3-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"></a>&nbsp;&nbsp;
+ <br><br>
+ </p>
+
+## Coding Plateform 🔗 :
+<br>
+ <p align='center'>
+ <a href="https://www.codechef.com/users/piyushcv1999" target="blank">
+ <img src="https://img.shields.io/badge/CodeChef-%23964B00.svg?style=for-the-badge&logo=CodeChef&logoColor=white" /></a>&nbsp;&nbsp;
+ 
+<a href="https://www.hackerrank.com/piyush_cv1999" target="blank">
+<img  src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" alt="piyush_cv1999" /></a>&nbsp;&nbsp;
+ 
+<a href="https://www.leetcode.com/fsocietypiyush" target="blank">
+ <img src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06" alt="fsocietypiyush" /></a> &nbsp;&nbsp;
+ 
+ <a href="https://auth.geeksforgeeks.org/user/piyushcv1999/" target="blank">
+ <img src="https://img.shields.io/badge/GeeksforGeeks-gray?style=for-the-badge&logo=geeksforgeeks&logoColor=35914c" alt="fsocietypiyush" /></a>&nbsp;&nbsp;
+ <br>
+</p>
+ 
+</p>
+<br>
+
 <img src="https://komarev.com/ghpvc/?username=chinmay29hub">&nbsp;&nbsp;&nbsp;&nbsp;
 <img src="https://img.shields.io/github/followers/chinmay29hub?style=social">&nbsp;&nbsp;&nbsp;&nbsp;
 <!-- <img src="https://visitor-badge.glitch.me/badge?page_id=chinmay29hub.visitor-badge"> -->
@@ -102,25 +160,6 @@ _<h1> Hello Fellow < Coders/ >! I'am Piyush<img src = "https://raw.githubusercon
 </p>
 <br>
 
-### Social Media 🔗 :
-<br>
-<p align='center'>
-<a href="mailto:chinmaysonawane57@gmail.com" target="_blank">
-<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
-</a>&nbsp;&nbsp;
-<a href="https://www.instagram.com/chinmay29hub" target="_blank">
-<img src="https://img.shields.io/badge/chinmay29hub-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"></a>&nbsp;&nbsp;
-<a href="https://www.linkedin.com/in/chinmay-sonawane-38474019a/" target="_blank">
-<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"></a>&nbsp;&nbsp;
-<a href="mailto:chinmaysonawane57@protonmail.com" target="_blank">
-<img src="https://img.shields.io/badge/ProtonMail-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white"></a>&nbsp;&nbsp;
-<a href="https://www.reddit.com/user/chinmay29hub" target="_blank">
-<img src="https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white"></a>&nbsp;&nbsp;
-<a href="https://www.youtube.com/channel/UCfc0iDwzZi7CLKIBWBCJNWw">
-<img src="https://img.shields.io/badge/chinmay29hub-FF0000?style=for-the-badge&logo=Youtubegaming&logoColor=white">
-</a>&nbsp;&nbsp;
-</p>
-<br>
 
 ### Hosting 🌎 :
 <br>
