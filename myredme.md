@@ -5,7 +5,7 @@ _<h1> Hello Fellow < Coders/ >! I'am Piyush<img src = "https://raw.githubusercon
 <hr>
 <br>
 <p align='auto'>
-- 🔭 𝙸’𝚖 𝚌𝚞𝚛𝚛𝚎𝚗𝚝𝚕𝚢 𝚠𝚘𝚛𝚔𝚒𝚗𝚐 𝚘𝚗 ** 𝚆𝚎𝚋 𝙳𝚎𝚟𝚎𝚕𝚘𝚙𝚖𝚎𝚗𝚝** 
+- 🔭 𝙸’𝚖 𝚌𝚞𝚛𝚛𝚎𝚗𝚝𝚕𝚢 𝚠𝚘𝚛𝚔𝚒𝚗𝚐 𝚘𝚗 **𝚆𝚎𝚋 𝙳𝚎𝚟𝚎𝚕𝚘𝚙𝚖𝚎𝚗𝚝 **
  <br>
 - 🌱 𝙸’𝚖 𝚌𝚞𝚛𝚛𝚎𝚗𝚝𝚕𝚢 𝚕𝚎𝚊𝚛𝚗𝚒𝚗𝚐 ** 𝙲𝚘𝚖𝚙𝚎𝚝𝚒𝚝𝚒𝚟𝚎 𝙿𝚛𝚘𝚐𝚛𝚊𝚖𝚖𝚒𝚗𝚐**
  <br>
@@ -17,13 +17,19 @@ _<h1> Hello Fellow < Coders/ >! I'am Piyush<img src = "https://raw.githubusercon
  <br>
 - 😄 𝙿𝚛𝚘𝚗𝚘𝚞𝚗𝚜 : **𝙷𝚎/𝙷𝚒𝚖/𝙷𝚒𝚜**
  <br>
-- ⚡ 𝙵𝚞𝚗 𝚏𝚊𝚌𝚝 : **𝙱𝚎𝚜𝚝 𝙿𝚊𝚛𝚝 𝙾𝚏 𝚃𝚑𝚎 𝙹𝚘𝚞𝚛𝚗𝚎𝚢 𝙸𝚜 : *𝙸𝚝 𝙴𝚗𝚍𝚜***
+- ⚡ 𝙵𝚞𝚗 𝚏𝚊𝚌𝚝 : **𝙱𝚎𝚜𝚝 𝙿𝚊𝚛𝚝 𝙾𝚏 𝚃𝚑𝚎 𝙹𝚘𝚞𝚛𝚗𝚎𝚢 𝙸𝚜 : *𝙸𝚝 𝙴𝚗𝚍𝚜* **
  <br> <br>
-
+<img src="https://komarev.com/ghpvc/?username=chinmay29hub">&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://img.shields.io/github/followers/chinmay29hub?style=social">&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://visitor-badge.glitch.me/badge?page_id=chinmay29hub.visitor-badge">
+<hr>
+ </p>
+<br>
+<!--  <p> -->
  ## Connect With ME 🔗 :
 <br><br>
 ## Social Media 🔗 :
-<br>
+<br><br>
 <p align='center'>
 <a href="mailto:piyush.cv1999@gmail.com" target="_blank">
 <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>&nbsp;&nbsp;
@@ -48,8 +54,6 @@ _<h1> Hello Fellow < Coders/ >! I'am Piyush<img src = "https://raw.githubusercon
 ## Coding Plateform 🔗 :
 <br>
  <p align='center'>
- <a href="https://www.codechef.com/users/piyushcv1999" target="blank">
- <img src="https://img.shields.io/badge/CodeChef-%23964B00.svg?style=for-the-badge&logo=CodeChef&logoColor=white" /></a>&nbsp;&nbsp;
  
 <a href="https://www.hackerrank.com/piyush_cv1999" target="blank">
 <img  src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" alt="piyush_cv1999" /></a>&nbsp;&nbsp;
@@ -62,14 +66,10 @@ _<h1> Hello Fellow < Coders/ >! I'am Piyush<img src = "https://raw.githubusercon
  <br>
 </p>
  
-</p>
+<!-- </p> -->
 <br>
 
-<img src="https://komarev.com/ghpvc/?username=chinmay29hub">&nbsp;&nbsp;&nbsp;&nbsp;
-<img src="https://img.shields.io/github/followers/chinmay29hub?style=social">&nbsp;&nbsp;&nbsp;&nbsp;
-<!-- <img src="https://visitor-badge.glitch.me/badge?page_id=chinmay29hub.visitor-badge"> -->
-</p>
-<br>
+
 
 ## Github Contribution Streak 🔥 
 <br>
@@ -100,7 +100,7 @@ _<h1> Hello Fellow < Coders/ >! I'am Piyush<img src = "https://raw.githubusercon
 ## Technology Stack 💻
 
 <p align='center'>
-<img src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" width="200" height="200" frameBorder="0" class="giphy-embed" allowFullScreen></img></p>
+<img src="https://github.com/piyushhawq/Images/blob/main/giphytechnology%20used.webp" width="200" height="200" frameBorder="0" class="giphy-embed" allowFullScreen></img></p>
 
 ### Programming Languages 👨‍💻 :
 <br>
